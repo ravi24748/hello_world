@@ -1,2 +1,2 @@
-x = ("hello world")
-print x
+y= ("hello world")
+print y
